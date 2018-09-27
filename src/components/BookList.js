@@ -4,9 +4,11 @@ import styled from "react-emotion"
 import Atoms from "designSystem/atoms"
 import Book from "./Book"
 
+import type BookProps from "./Book"
+
 const strippedTitle = str => str.replace(/^(the|a) /i, "").toLowerCase()
 
-const books = [
+const books: Array<BookProps> = [
   {
     title: "Bird By Bird",
     author: "Anne Lamott",

@@ -23,6 +23,7 @@
     "gatsby-link": "^2.0.1",
     "gatsby-mdx": "^0.1.4",
     "gatsby-plugin-emotion": "^2.0.5",
+    "gatsby-plugin-flow": "^1.0.1",
     "gatsby-plugin-google-analytics": "next",
     "gatsby-plugin-postcss": "^2.0.0-beta.2",
     "gatsby-plugin-react-helmet": "^2.0.11",

@@ -8,6 +8,7 @@ module.exports = {
   polyfill: false,
   plugins: [
     "gatsby-plugin-emotion",
+    "gatsby-plugin-flow",
     "gatsby-plugin-postcss",
     "gatsby-plugin-react-helmet",
     {
